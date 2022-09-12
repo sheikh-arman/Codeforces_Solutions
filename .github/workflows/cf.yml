@@ -1,4 +1,4 @@
-name: Fetch CF AC Submissions
+name: Added
 on:
   workflow_dispatch:
   schedule:
